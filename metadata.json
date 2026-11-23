@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Anjali",
+  "description": "Hotel Anjali Inn & Restaurant — Luxury hospitality, signature multi-cuisine dining, deluxe rooms, and grand celebration lawns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
